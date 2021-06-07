@@ -56,6 +56,7 @@ public class Decipher {
 	
 	//Finally get the message
 	public void decryption() {	
+		System.out.println("p = " + p + ", q = " + q + ", e = " + e);
 		System.out.println("Decryption started:");
 		
 		//Traverse the given string. It is assumed that every 40 numbers there is a letter
