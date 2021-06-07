@@ -23,6 +23,7 @@ For more information about RSA encryption, follow this [link](https://en.wikiped
 ## Approach
 In this project all the values are given in the [Encrypted Message file](https://github.com/ChrisMolina99/RSA-Decryption/blob/master/Encrypted%20Message.txt). The first three lines contain the values of *p*, *q*, *e* and the last line contains the message. This message is given as a binary string of characters, in which every 40 characters it is contained a number.
 
+![Demo](/screenshots/demo.gif)
 
 ## References
 - Discrete Mathematics with Applications, 4th Edition 
